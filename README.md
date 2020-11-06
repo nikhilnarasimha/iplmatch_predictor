@@ -8,3 +8,5 @@ This is an Web Application to predict the IPL Match winner. More Information Reg
 
 
 The Model used was Random Forest Classfication, the Parameters used are Batting team, Blowing Team, Toss Winner, Toss decision. The Application has been Deplyed in the Heroku and AWS Servers.
+
+heroku- https://iplmatchpredictor.herokuapp.com/
