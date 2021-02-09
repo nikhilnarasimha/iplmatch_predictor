@@ -7,6 +7,6 @@ This is an Web Application to predict the IPL Match winner. More Information Reg
 #IPL Total Dataset till 2019
 
 
-The Model used was Random Forest Classfication, the Parameters used are Batting team, Blowing Team, Toss Winner, Toss decision. The Application has been Deplyed in the Heroku and AWS Servers.
+The Model used was Random Forest Classfication, the Parameters used are Batting team, Blowing Team, Toss Winner, Toss decision. The Application has been Deplyed in the Heroku and AWS Server.
 
 heroku- https://iplmatchpredictor.herokuapp.com/
